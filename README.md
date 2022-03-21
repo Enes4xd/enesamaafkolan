@@ -1,5 +1,5 @@
 # enesamaafkolan
-git clone https://github.com/Enes4xd/Enes4xd.git
+git clone https://github.com/enesamaafkolan/enesamaafkolan.git
 ...
 başlık: Kod Alanları için Hızlı Başlangıç
 giriş: '5 dakika içinde {% data options.product.prodname_codespaces %} ürününü deneyin.'
